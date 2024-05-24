@@ -1,0 +1,12 @@
+{
+    "partners": [
+        {
+            "name": "Partner A",
+            "description": "Partner A is a leading company in industry X."
+        },
+        {
+            "name": "Partner B",
+            "description": "Partner B is known for their innovative solutions in industry Y."
+        }
+    ]
+}

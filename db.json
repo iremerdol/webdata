@@ -1,12 +1,24 @@
 {
     "partners": [
         {
-            "name": "Partner A",
-            "description": "Partner A is a leading company in industry X."
+            "name": "Canva",
+            "description": "Canva is a globally recognized leader in graphic design, offering intuitive and versatile tools that empower individuals and businesses to create stunning visual content. Their innovative platform makes it easy to customize and design professional CV templates, ensuring every job seeker can present themselves at their best."
         },
         {
-            "name": "Partner B",
-            "description": "Partner B is known for their innovative solutions in industry Y."
+            "name": "Adobe Creative Cloud",
+            "description": "Adobe Creative Cloud is renowned for its cutting-edge design software used by professionals worldwide. Their suite of tools, including Adobe InDesign and Adobe Illustrator, provides unparalleled capabilities for creating polished and impactful CVs. Partnering with Adobe allows us to offer templates that leverage the full power of industry-leading design technology."
+        },
+        {
+            "name": "Microsoft Office",
+            "description": "Microsoft Office, with its ubiquitous suite of productivity tools, is a staple in the professional world. Microsoft Word, in particular, offers robust features for creating and formatting CVs, making it a trusted tool for job seekers and professionals alike. Our collaboration with Microsoft ensures our templates are fully compatible and optimized for seamless integration."
+        },
+        {
+            "name": "Etsy",
+            "description": "Etsy is a vibrant marketplace known for its creative and unique offerings. Many talented designers use Etsy to showcase and sell their custom CV and portfolio templates. Our partnership with Etsy allows us to bring you a curated selection of distinctive and artistically crafted templates that help you stand out in the job market."
+        },
+        {
+            "name": "Behance",
+            "description": "Behance, part of the Adobe family, is a premier online platform for showcasing and discovering creative work. It is home to many top-tier designers who share their portfolio and CV templates. Partnering with Behance enables us to provide access to high-quality, professionally designed templates that reflect the latest trends and best practices in design."
         }
     ]
 }

@@ -19,6 +19,10 @@
         {
             "name": "Behance",
             "description": "Behance, part of the Adobe family, is a premier online platform for showcasing and discovering creative work. It is home to many top-tier designers who share their portfolio and CV templates. Partnering with Behance enables us to provide access to high-quality, professionally designed templates that reflect the latest trends and best practices in design."
+        },
+        {
+            "name": "",
+            "description": ""
         }
     ]
 }
